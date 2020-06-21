@@ -2,17 +2,17 @@
 
 ## Installation:
 
-for installing necessary libraries you can run the following commands 
+Run the following commands for installing  necessary libraries
 
-for database connectivity we need Pymongo 
+For database connectivity we need Pymongo 
 
   ```pip install pymongo```
  
-for using machine learning algorithms we need TensorFlow backend 
+For using machine learning algorithms we need TensorFlow backend 
 
   ```pip install tensorflow==1.14```
  
-For detention we are using imageai 
+For detection we are using imageai 
 
 ```pip install imageai```
 
