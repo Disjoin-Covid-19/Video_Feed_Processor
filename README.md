@@ -23,6 +23,6 @@ For image reading and writing we need cv2
 
 ## Process: 
 
-Please go through this document  : 
+Discover the video process 
     [HERE](https://docs.google.com/document/d/11LC8VgPtbjqHRegUo5DsLCqGggB8Ly4RXdzkQhC1B7c/edit?usp=sharing)
 
