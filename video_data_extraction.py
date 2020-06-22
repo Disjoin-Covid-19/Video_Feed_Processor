@@ -4,6 +4,7 @@ from imageai.Detection import ObjectDetection
 import os
 import cv2
 from datetime import datetime, date, time, timedelta
+from pymongo import MongoClient
 
 
 # starting ObjectDetection module
