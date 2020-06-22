@@ -1,24 +1,36 @@
 # Video_Feed_Processor
-
-## Installation:
-
-Run the following commands for installing  necessary libraries
-
-For database connectivity we need Pymongo 
-
-  ```pip install pymongo```
  
-For using machine learning algorithms we need TensorFlow backend 
+  
+## Install guide
 
-  ```pip install tensorflow==1.14```
- 
-For detection we are using imageai 
+##### Clone the repo
 
-```pip install imageai```
+```bash
+$ git clone https://github.com/Disjoin-Covid-19/Video_Feed_Processor.git
+$ cd Video_Feed_Processor
+```
 
-For image reading and writing we need cv2 
+##### Create the virtualenv
+```bash
+$ mkvirtualenv CVideo_Feed_Processor
+```
 
-```pip install opencv ```
+##### Install dependencies
+```bash
+$ pip install -r requirements.txt
+```
+
+
+## Test
+
+
+Please download the "resnet50_coco_best_v2.1.0.h5" model from here and place it in the model folder 
+
+```bash
+$  
+$ python3 video_data_extraction.py
+
+```
 
 
 ## Process: 
