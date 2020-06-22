@@ -12,7 +12,7 @@ $ cd Video_Feed_Processor
 
 ##### Create the virtualenv
 ```bash
-$ mkvirtualenv CVideo_Feed_Processor
+$ mkvirtualenv Video_Feed_Processor
 ```
 
 ##### Install dependencies
@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 ## Test
 
 
-Please download the "resnet50_coco_best_v2.1.0.h5" model from here and place it in the model folder 
+Please download the "resnet50_coco_best_v2.1.0.h5" model from [here](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5) and place it in the model folder 
 
 ```bash
 $  
