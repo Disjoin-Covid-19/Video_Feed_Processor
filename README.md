@@ -28,7 +28,8 @@ Please download the "resnet50_coco_best_v2.1.0.h5" model from [here](https://git
 
 ```bash
 $  
-$ python3 video_data_extraction.py
+$ python3 video_data_extraction.py -rp input_video.mp4 -k 1234
+
 
 ```
 
